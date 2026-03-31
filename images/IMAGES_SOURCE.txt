@@ -1,0 +1,10 @@
+All recipe images are loaded from Unsplash CDN (https://unsplash.com).
+An internet connection is required to display images when viewing the website locally.
+
+Images used:
+- Hero (Home): https://images.unsplash.com/photo-1490645935967-10de6ba17061
+- Spaghetti Carbonara: https://images.unsplash.com/photo-1612874742237-6526221588e3
+- Chicken Tikka Masala: https://images.unsplash.com/photo-1565557623262-b51c2513a641
+- Chocolate Lava Cake: https://images.unsplash.com/photo-1578985545062-69928b1d9587
+- Classic Caesar Salad: https://images.unsplash.com/photo-1512621776951-a57141f2eefd
+- Spicy Beef Tacos: https://images.unsplash.com/photo-1565299585323-38d6b0865b47
